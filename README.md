@@ -1,10 +1,18 @@
-# node-mysql
 
-npm i mysql2
 
-mysql statements
+## Project setup
+```
+npm install
+```
 
-* Creating Data Base *
-CREATE DATABASE node-mysql
+### Run Node Application
+```
+node server.js
+```
 
-/* Creating Table */
+### mysql statements
+```
+CREATE DATABASE node-mysql; /* Creating Data Base */
+
+```
+
